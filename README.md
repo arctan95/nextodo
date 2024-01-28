@@ -1,2 +1,2 @@
 # nextodo
-A command line to-do app written in Rust
+A to-do app written in Rust
